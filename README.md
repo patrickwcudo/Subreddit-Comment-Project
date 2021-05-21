@@ -1,4 +1,4 @@
-## Project 3: Web APIs & NLP
+## NLP Subreddit Commnet Project
 ---
 ### Table of Contents
 
@@ -12,7 +12,7 @@
 
 ### Problem Statement
 
-This project explores comments collected from Reddit.com to predict what particular subreddit those comments were collected from.   Through this process we can gather some insight on what words to focus on in our predictions.  Once these words are identified they can be used for further analysis.
+This project explores comments collected from Reddit.com to predict what particular subreddit those comments were collected from. Through this process we can gather some insight on what words to focus on in our predictions.  Once these words are identified they can be used for further analysis.
 
 ### Executive Summary
 
